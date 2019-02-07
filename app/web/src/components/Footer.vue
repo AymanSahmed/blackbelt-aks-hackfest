@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Azure Global Blackbelt Team - Ayma
+        Azure Global Blackbelt Team - AymanSamir
       </div>
       <div class="col-lg-6">
       </div>
